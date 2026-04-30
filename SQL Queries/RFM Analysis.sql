@@ -79,7 +79,7 @@ ORDER BY rfm_total_score DESC
 ;
 
 
--- 5) Create final rfm segments table for analysis and visualization
+-- 5) Create final rfm segments table for analysis and visualization.
 
 CREATE OR REPLACE TABLE `core.sales.rfm_segments_final`
 AS
