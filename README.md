@@ -8,7 +8,7 @@ t
 
 ## Project Components
 
-* The raw data was loaded into **Google BigQuery** using **Fivetran**.
+* The data was loaded into **Google BigQuery** using **Fivetran**.
 
 * t
 
