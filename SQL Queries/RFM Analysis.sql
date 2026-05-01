@@ -22,7 +22,7 @@ CREATE OR REPLACE VIEW `core.sales.rfm_metrics`
 AS
 
 WITH current_date AS (
-  SELECT DATE('2026-03-06') AS analysis_date -- Today's (project hypothetical) date for analysis
+    SELECT DATE('2026-03-06') AS analysis_date -- Today's (project hypothetical) date for analysis
 ),
 
 rfm AS (
