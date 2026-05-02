@@ -27,7 +27,22 @@ t
 
 ## Insights Deep-Dive
 
-* t
+* Across all segments, the average customer profile is 161 days since last purchase, having placed between 3 and 4 total orders with an average historical customer lifetime value of $59.47.
+
+* **The top 22% of customers account for 40% of revenue** (comprising the 'VIP' and 'Loyalist' segments), while **the bottom 20% contribute roughly 5%**. This reflects a more diversified revenue stream across customer segments compared to some standard benchmarks.
+
+* Our top customers ('VIP' segment) represent 7% of total customers yet average $128.47 in total customer spend, which is **roughly 2x the overall average**. With high Frequency, **their share of total revenue is double their share of total customers (14% vs 7%)**.
+
+* The 'Loyalist' and 'Potential Loyalist' segments **together represent over a quarter of the customer base (29%) but drive almost half of total revenue (43.6%)**. With an average revenue of $89.76, both segments contribute a disproportionate share of revenue relative to their customer sizes. This correlation is partly expected, as higher spending naturally results in a higher Monetary score for RFM scoring, and as such the effect appears more significantly among 'VIP' customers as well.
+
+* **The 'Engaged' segment is the single largest segment**, at 22% of the customer base. They contribute 17% of total revenue, maintaining an average total customer spend of $46 across a 2.8 order average.
+
+* **The 'Promising' segment is the inflection point where the relationship between customer volume and revenue flips**. In lower-tier segments, customer share exceeds revenue share, but as customers move to higher RFM segments, their increased spend drives a shift where revenue share outweighs customer share.
+
+* Confirmed customer churn is stable at 1.7%. Possible churn through the loss of all 'At Risk' customers could increase total churn to 14.3%, totaling $683.72 - about 4% of total revenue.
+
+* Customer #0293 is the only customer to have purchased over 10 times, and thus has a Frequency of 12.
+
 
 <div align="center">
   <img width="700px" src="https://github.com/user-attachments/assets/ff6d59ea-90ec-4765-a4db-3baeeee17c54" />
