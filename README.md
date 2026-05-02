@@ -9,7 +9,7 @@ This analysis processes New Haven Printworks’ 2025 sales data into an RFM cust
 
 ## Project Components
 
-* The data was loaded into **Google BigQuery** using **Fivetran**.
+* The data was loaded into **Google BigQuery** using **Fivetran**, and can be found [here](https://github.com/blakefishman/RFM_Segment_Analysis/tree/main/Data).
 
 * The **SQL** queries used to examine the data and perform quality checks can be found [here](https://github.com/blakefishman/RFM_Segment_Analysis/blob/main/SQL%20Queries/Initial%20Data%20Checks%20and%20Examining.sql).
 
