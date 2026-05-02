@@ -1,7 +1,3 @@
-<div align="center">
-  <img width="320px" src="t" />
-</div>
-
 ## Background
 **New Haven Printworks** is a local US printing service specializing in custom printed products for online ordering and physical pickup, including business cards, greeting cards, posters, art prints, and photo books. To better understand its local customer base, the business sought to conduct an **RFM (Recency, Frequency, Monetary) segmentation analysis** on March 6, 2026, against their 2025 sales data.
 
@@ -19,7 +15,7 @@ This analysis processes New Haven Printworks’ 2025 sales data into an RFM cust
 
 * The **SQL** queries used to calculate the RFM analysis for visualization and analysis be found [here](https://github.com/blakefishman/RFM_Segment_Analysis/blob/main/SQL%20Queries/RFM%20Analysis.sql).
 
-* The **Power BI** dashboard visualizations can be found here.
+* The **Power BI** dashboard visualizations can be found [here](https://github.com/blakefishman/RFM_Segment_Analysis/blob/main/RFM_Dashboard_PowerBI.pbix).
 
 
 ## Executive Summary
