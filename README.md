@@ -25,14 +25,17 @@ This analysis processes New Haven Printworks’ 2025 sales data into an RFM cust
 ## Executive Summary
 t
 
-image 1
-
+<div align="center">
+  <img width="700px" src="https://github.com/user-attachments/assets/b6d12fb7-cf14-4d65-b048-dcb93a552826" />
+</div>
 
 ## Insights Deep-Dive
 
 * t
 
-image 2
+<div align="center">
+  <img width="700px" src="https://github.com/user-attachments/assets/ff6d59ea-90ec-4765-a4db-3baeeee17c54" />
+</div>
 
 
 ## Recommendations
