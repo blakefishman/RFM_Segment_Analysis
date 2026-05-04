@@ -19,7 +19,9 @@ This analysis processes New Haven Printworks’ 2025 sales data into an RFM cust
 
 
 ## Executive Summary
-t
+New Haven Printworks possesses a moderately concentrated revenue distribution, with the top 22% of customers ('VIP' and 'Loyalist' segments) driving 40% of total revenue against a bottom 20% driving just 5%. Meanwhile, the 'Engaged' segment is the single largest segment at 22% of the customer base while contributing 17% of total revenue, and offers a large, receptive, and potentially underutilized group of customers for targeted marketing campaigns.
+
+Key recommendations focus on launching the upcoming loyalty program exclusively with VIP customers first, pursuing targeted upsell strategies for Loyalist and Potential Loyalist segments, and deploying win-back campaigns to mitigate potential churn that could reach 14.3% if all At-Risk customers are lost.
 
 <div align="center">
   <img width="700px" src="https://github.com/user-attachments/assets/b6d12fb7-cf14-4d65-b048-dcb93a552826" />
@@ -37,7 +39,7 @@ t
 
 * **The 'Engaged' segment is the single largest segment**, at 22% of the customer base. They contribute 17% of total revenue, maintaining an average total customer spend of $46 across a 2.8 order average.
 
-* **The 'Promising' segment is the inflection point where the relationship between customer volume and revenue flips**. In lower-tier segments, customer share exceeds revenue share, but as customers move to higher RFM segments, their increased spend drives a shift where revenue share outweighs customer share.
+* **The 'Promising' segment is the inflection point where the relationship between customer volume and revenue begins to flip**. In lower-tier segments, customer share exceeds revenue share, but as customers move to higher RFM segments, their increased spend drives a shift where revenue share outweighs customer share. With equal 15% and 15% shares, their ratio of customer share versus revenue share is 1:1.
 
 * Confirmed customer churn is stable at 1.7%. Possible churn through the loss of all 'At Risk' customers could increase total churn to 14.3%, totaling $683.72 - about 4% of total revenue.
 
@@ -57,6 +59,8 @@ t
 
 * Prioritize upselling to 'Loyalists' and 'Potential Loyalists' to graduate them into higher segments. When the timeline makes sense, these segments can also be integrated into the loyalty program to further their retention.
 
-* Utilize targeted, personalized offers to strengthen loyalty among 'Engaged' customers while implementing win-back campaigns to reengage 'At Risk' and 'Requires Attention' customers.
+* Run targeted, personalized offers to increase loyalty and spend among customers in the 'Engaged' segment, which is the single largest segment. This customer segment offers a large, already receptive, and potentially underutilized group of customers.
+
+* Implement win-back campaigns to reengage 'At Risk' and 'Requires Attention' customers, while also mitigating potential churn.
 
 * Approximately 10 high-value customers (3.48% of total base) in the 'Loyalist' and 'Potential Loyalist' segments meet or exceed the 'VIP' Frequency (6) and roughly match its average total customer spend ($126.81 vs $128.47), but lag in Recency. **Targeted return offers to improve their Recency scores could thus graduate most of these customers into the 'VIP' segment**, bolstering it ahead of the loyalty program's initial launch phase while diversifying some revenue away from the 'Loyalist' segment's current 26%
