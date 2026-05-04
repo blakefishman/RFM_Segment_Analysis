@@ -21,7 +21,7 @@ This analysis processes New Haven Printworks’ 2025 sales data into an RFM cust
 ## Executive Summary
 New Haven Printworks possesses a moderately concentrated revenue distribution, with the top 22% of customers ('VIP' and 'Loyalist' segments) driving 40% of total revenue against a bottom 20% driving just 5%. Meanwhile, the 'Engaged' segment is the single largest segment at 22% of the customer base while contributing 17% of total revenue, and offers a large, receptive, and potentially underutilized group of customers for targeted marketing campaigns.
 
-Key recommendations focus on launching the upcoming loyalty program exclusively with VIP customers first, pursuing targeted upsell strategies for Loyalist and Potential Loyalist segments, and deploying win-back campaigns to mitigate potential churn that could reach 14.3% if all At-Risk customers are lost.
+Key recommendations focus on launching the upcoming loyalty program exclusively with VIP customers first, pursuing targeted upsell strategies for Loyalist and Potential Loyalist segments, and deploying win-back campaigns to mitigate potential churn.
 
 <div align="center">
   <img width="700px" src="https://github.com/user-attachments/assets/b6d12fb7-cf14-4d65-b048-dcb93a552826" />
