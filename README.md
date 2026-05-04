@@ -59,7 +59,7 @@ Key recommendations focus on launching the upcoming loyalty program exclusively 
 
 * Prioritize upselling to 'Loyalists' and 'Potential Loyalists' to graduate them into higher segments. When the timeline makes sense, these segments can also be integrated into the loyalty program to further their retention.
 
-* Run targeted, personalized offers to increase loyalty and spend among customers in the 'Engaged' segment, which is the single largest segment. This customer segment offers a large, already receptive, and potentially underutilized group of customers.
+* Run targeted, personalized offers to increase loyalty and spend among customers in the 'Engaged' segment, which is the single largest segment. This customer segment offers a **large, already receptive, and potentially underutilized** group of customers.
 
 * Implement win-back campaigns to reengage 'At Risk' and 'Requires Attention' customers, while also mitigating potential churn.
 
