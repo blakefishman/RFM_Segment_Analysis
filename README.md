@@ -1,9 +1,9 @@
 ## Background
-**New Haven Printworks** is a local US printing service specializing in custom printed products for online ordering and physical pickup, including business cards, greeting cards, posters, art prints, and photo books. To better understand its local customer base, the business sought to conduct an **RFM (Recency, Frequency, Monetary) segmentation analysis** on March 6, 2026, against their 2025 sales data.
+**New Haven Office Co** is a local US printing service specializing in custom printed products for online ordering and physical pickup, including business cards, greeting cards, posters, art prints, and photo books. To better understand its local customer base, the business sought to conduct an **RFM (Recency, Frequency, Monetary) segmentation analysis** on March 6, 2026, against their 2025 sales data.
 
 The business was particularly interested in their top-performing customers, as they also intend to use the RFM analysis findings to help guide the launch of a new loyalty program, however they are still uncertain on the best rollout strategy.
 
-This analysis processes New Haven Printworks’ 2025 sales data into an RFM customer segmentation analysis to uncover key customer insights, driving actionable recommendations to boost future performance. The RFM segmentation utilized deciles for ten equal parts, resulting in scores of 3–30 across eight customer segments.
+This analysis processes New Haven Office Co’ 2025 sales data into an RFM customer segmentation analysis to uncover key customer insights, driving actionable recommendations to boost future performance. The RFM segmentation utilized deciles for ten equal parts, resulting in scores of 3–30 across eight customer segments.
 
 
 
@@ -20,7 +20,7 @@ This analysis processes New Haven Printworks’ 2025 sales data into an RFM cust
 
 
 ## Executive Summary
-New Haven Printworks possesses a moderately concentrated revenue distribution, with the top 22% of customers ('VIP' and 'Loyalist' segments) driving 40% of total revenue against a bottom 20% driving just 5%. Meanwhile, the 'Engaged' segment is the single largest segment at 22% of the customer base while contributing 17% of total revenue, and offers a large, receptive, and potentially underutilized group of customers for targeted marketing campaigns.
+New Haven Office Co possesses a moderately concentrated revenue distribution, with the top 22% of customers ('VIP' and 'Loyalist' segments) driving 40% of total revenue against a bottom 20% driving just 5%. Meanwhile, the 'Engaged' segment is the single largest segment at 22% of the customer base while contributing 17% of total revenue, and offers a large, receptive, and potentially underutilized group of customers for targeted marketing campaigns.
 
 Key recommendations focus on launching the upcoming loyalty program exclusively with VIP customers first, pursuing targeted upsell strategies for Loyalist and Potential Loyalist segments, and deploying win-back campaigns to mitigate potential churn.
 
