@@ -1,5 +1,5 @@
 ## Background
-**New Haven Office Co.** is a local US printing service specializing in custom printed products for online ordering and physical pickup, including business cards, greeting cards, posters, art prints, and photo books. To better understand its local customer base, the business sought to conduct an **RFM (Recency, Frequency, Monetary) segmentation analysis** on March 6, 2026, against their 2025 sales data.
+**New Haven Office Co.** is a hypothetical local US printing service specializing in custom printed products for online ordering and physical pickup, including business cards, greeting cards, posters, art prints, and photo books. To better understand its local customer base, the business sought to conduct an **RFM (Recency, Frequency, Monetary) segmentation analysis** on March 6, 2026, against their 2025 sales data.
 
 The business was particularly interested in their top-performing customers, as they also intend to use the RFM analysis findings to help guide the launch of a new loyalty program, however they are still uncertain on the best rollout strategy.
 
