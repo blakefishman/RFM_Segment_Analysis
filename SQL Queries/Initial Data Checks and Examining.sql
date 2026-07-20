@@ -45,9 +45,9 @@ FROM `core.sales.sales_2025`
 -- 4) Empty check for strings
 
 SELECT
-    SUM(CASE WHEN OrderID = '' THEN 1 ELSE 0 END) AS empty_count_order_id,
-    SUM(CASE WHEN CustomerID = '' THEN 1 ELSE 0 END) AS empty_count_customer_id,
-    SUM(CASE WHEN ProductType = '' THEN 1 ELSE 0 END) AS empty_count_product_type
+    SUM(CASE WHEN TRIM(OrderID) = '' THEN 1 ELSE 0 END) AS empty_count_order_id,
+    SUM(CASE WHEN TRIM(CustomerID) = '' THEN 1 ELSE 0 END) AS empty_count_customer_id,
+    SUM(CASE WHEN TRIM(ProductType) = '' THEN 1 ELSE 0 END) AS empty_count_product_type
 FROM `core.sales.sales_2025`
 ;
 
